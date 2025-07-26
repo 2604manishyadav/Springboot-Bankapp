@@ -6,7 +6,7 @@
 
 ### Login page
 
-![App Screenshot](https://github.com/2604manishyadav/Bankapp/blob/d9ad7e37fdf190da4cb08ef20296bb0a53391c5c/LoginPage.PNG)
+![App Screenshot](https://github.com/2604manishyadav/Springboot-Bankapp/blob/main/images/LoginPage.PNG)
 
 ### Transaction Logs
 
