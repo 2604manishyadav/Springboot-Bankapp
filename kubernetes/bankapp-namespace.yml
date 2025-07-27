@@ -5,4 +5,3 @@ metadata:
   name: bankapp-namespace
   labels:
     name: bankapp-namespace
-
