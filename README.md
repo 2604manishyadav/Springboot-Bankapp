@@ -118,11 +118,11 @@ sudo vim /usr/lib/systemd/system/jenkins.service file
     newgrp docker
 
 #### Create CI Pipeline using Jenkins for pushing image to DockerHub, jenkins configuration file shared 
-![App Screenshot](https://github.com/2604manishyadav/Bankapp/blob/c6c27ead04bcd0716a48c132fab209a559a837e6/BankappCI.PNG)
+![App Screenshot](https://github.com/2604manishyadav/Springboot-Bankapp/blob/main/images/BankappCI.PNG)
 
 #### Add credential (Username and password) of DockerHub in credential of Jenkins
 
-![App Screenshot](https://github.com/2604manishyadav/Springboot-Bankapp/blob/main/images/BankappCI.PNG)
+![App Screenshot](https://github.com/2604manishyadav/Springboot-Bankapp/blob/main/images/AddCredentialsof%20DockerHub.PNG)
 
 ### Install & Configure ArgoCD
 
