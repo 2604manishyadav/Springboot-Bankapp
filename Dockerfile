@@ -1,4 +1,4 @@
-#-------------------STAGE 1--------------
+#-------------------STAGE 1 A Builder--------------
 
 FROM maven:3.8.3-openjdk-17 as builder
 
